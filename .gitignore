@@ -3,6 +3,7 @@
 *.dll
 *.so
 *.dylib
+pasta-sauce
 
 # Test binary, build with `go test -c`
 *.test
