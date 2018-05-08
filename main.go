@@ -1,7 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/ecbrodie/pasta-sauce/models"
+)
 
 func main() {
-	fmt.Println("Hello World")
+	evan := models.NewUser("Evan")
+	fmt.Printf("Hello %s\n", evan.Name)
 }
