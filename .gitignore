@@ -17,3 +17,6 @@ pasta-sauce
 # VSCode Settings and Related Files
 .vscode/
 /debug
+
+# Go Dep
+/vendor/
