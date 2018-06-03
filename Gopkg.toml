@@ -1,4 +1,4 @@
-required = ["github.com/codegangsta/gin", "github.com/alecthomas/gometalinter"]
+required = ["github.com/codegangsta/gin", "github.com/mgechev/revive"]
 
 [prune]
   go-tests = true
