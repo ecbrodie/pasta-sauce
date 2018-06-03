@@ -20,3 +20,6 @@ pasta-sauce
 
 # Go Dep
 /vendor/
+
+# Gin
+gin-bin
