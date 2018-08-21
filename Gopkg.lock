@@ -45,6 +45,14 @@
   version = "v1.7.0"
 
 [[projects]]
+  branch = "master"
+  digest = "1:060e2ff7ee3e51b4a0fadf46308033bfe3b8030af6a8078ec26916e2e9b2fdc3"
+  name = "github.com/fatih/structtag"
+  packages = ["."]
+  pruneopts = "UT"
+  revision = "76ae1d6d2117609598c7d4e8f3e938145f204e8f"
+
+[[projects]]
   digest = "1:c79fb010be38a59d657c48c6ba1d003a8aa651fa56b579d959d74573b7dff8e1"
   name = "github.com/gorilla/context"
   packages = ["."]
@@ -77,12 +85,12 @@
   version = "v0.0.3"
 
 [[projects]]
-  digest = "1:e2d1d410fb367567c2b53ed9e2d719d3c1f0891397bb2fa49afd747cfbf1e8e4"
+  digest = "1:cdb899c199f907ac9fb50495ec71212c95cb5b0e0a8ee0800da0238036091033"
   name = "github.com/mattn/go-runewidth"
   packages = ["."]
   pruneopts = "UT"
-  revision = "9e777a8366cce605130a531d2cd6363d07ad7317"
-  version = "v0.0.2"
+  revision = "ce7b0b5c7b45a81508558cd1dba6bb1e4ddb51bb"
+  version = "v0.0.3"
 
 [[projects]]
   digest = "1:7efe48dea4db6b35dcc15e15394b627247e5b3fb814242de986b746ba8e0abf0"
@@ -94,15 +102,15 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:f587f62ce9cbdb6446e3f2faeb8d5b20d22b55362658e1ce71965ab4a3c15362"
+  digest = "1:e81b03bcb8845d91d378a47f35f77c51793d41cca7e2c0dedb4f8bef5a4afb7e"
   name = "github.com/mgechev/dots"
   packages = ["."]
   pruneopts = "UT"
-  revision = "3d1c0cc50642eae6291b43fdd37c7d7acfff7975"
+  revision = "8e09d8ea2757cbf7f6455794db8eca08f31f515c"
 
 [[projects]]
   branch = "master"
-  digest = "1:f5348bfc624d0d56e3c9f8ec9ef2da44a286963bd50314f7addd7734a95b86d8"
+  digest = "1:3db883a95847aa1e8f61aab2aa46d0f1c5aa17d93f05e46860c31b818746964d"
   name = "github.com/mgechev/revive"
   packages = [
     ".",
@@ -111,7 +119,7 @@
     "rule",
   ]
   pruneopts = "UT"
-  revision = "99d0130dc684bca66f25646d28874bf990082052"
+  revision = "936bc9479373de830410fc919830b94b8ea8faae"
 
 [[projects]]
   branch = "master"
@@ -123,15 +131,15 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:fcf2b18db0af0f60d58e71ae8ed15555d46fdca3fc2529f65a14cef30ced981f"
+  digest = "1:e3e7f51633f98fce9404940f74dfd65cf306ee173ddf5a8b247c9c830e42b38a"
   name = "golang.org/x/sys"
   packages = ["unix"]
   pruneopts = "UT"
-  revision = "c11f84a56e43e20a78cee75a7c034031ecf57d1f"
+  revision = "1a700e749ce29638d0bbcb531cce1094ea096bd3"
 
 [[projects]]
   branch = "master"
-  digest = "1:7b4f6123321ea8297c73f9a0f34ca28ebabdca9a6a96fe19a8d7a1b9d4eef5c5"
+  digest = "1:2da6537caecf77bbe4c57d2f5fdf8dfa13b7e39f7e491e853b6e670fe6bca03e"
   name = "golang.org/x/tools"
   packages = [
     "go/gcexportdata",
@@ -139,7 +147,7 @@
     "go/types/typeutil",
   ]
   pruneopts = "UT"
-  revision = "a5b4c53f6e8bdcafa95a94671bf2d1203365858b"
+  revision = "c1406c36efe20fb423f43a73518f0454febeed1f"
 
 [[projects]]
   digest = "1:b24d38b282bacf9791408a080f606370efa3d364e4b5fd9ba0f7b87786d3b679"
